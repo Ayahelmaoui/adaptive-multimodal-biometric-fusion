@@ -54,6 +54,6 @@ The numerical values produced by this code are simulation results for the paper'
 The purpose of the case study is to demonstrate the behavior of the proposed framework across different combinations of modality availability and reliability awareness.
 
 ### Citation
-If you use this code, please cite the accompanying paper:
-> A. Helmaoui, “A Conceptual Framework for Adaptive Multimodal Biometric Fusion,” submitted to CSAIE 2026, 2026.
+This repository accompanies a manuscript currently under peer review.
+Citation details will be added once available.
 
