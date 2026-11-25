@@ -131,7 +131,7 @@ The plot provides a structured comparison of the selected literature according t
 | `case_study_v2.py` | Python implementation of the case-study simulation. |
 | `case_study_v2.ipynb` | Jupyter/Google Colab notebook containing the case-study simulation and outputs. |
 | `lit_Positioning.py` | Python implementation of the literature-positioning analysis. |
-| `Lit_Positioning.ipynb` | Jupyter/Google Colab notebook containing the literature-positioning analysis and plot. |
+| `lit_Positioning.ipynb` | Jupyter/Google Colab notebook containing the literature-positioning analysis and plot. |
 | `requirements.txt` | Python dependencies required to run the analyses. |
 | `.gitignore` | Files and directories excluded from version control. |
 
