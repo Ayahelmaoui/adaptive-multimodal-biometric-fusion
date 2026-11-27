@@ -93,7 +93,7 @@ MSF = 0.6S + 0.4G
 Where:
 
 - **S:** indicates whether the modality set is variable (1) or fixed (0).
-- **G:** represents the breadth of supported modality configurations, ranging from 0 to 1.
+- **G:** represents the breadth of supported modality configurations, taking values in {0,0.5,1}.
 - **G** is set to 0 whenever **S** is 0.
 
 ### Reliability-Awareness (RA)
